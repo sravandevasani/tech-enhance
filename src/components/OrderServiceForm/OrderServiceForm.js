@@ -45,7 +45,7 @@ const OrderServiceForm = () => {
           <div className="modal-input-container">
             <div className="modal-input-field">
               <p className="input-heading">
-                Organisation Name<span className="star">*</span>
+                Company Name<span className="star">*</span>
               </p>
               <input
                 className="input"
