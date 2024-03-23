@@ -24,7 +24,7 @@ const OrderServiceForm = () => {
 
   return (
     <div className="main-container">
-      <h1 className="main-heading">No ordering services here.</h1>
+      <h1 className="main-heading">No ordering services</h1>
       <p className="main-sub-heading">Services list will be listed here.</p>
       <button className="button" onClick={() => setModalIsOpen(!modalIsopen)}>
         <FaPlus />
